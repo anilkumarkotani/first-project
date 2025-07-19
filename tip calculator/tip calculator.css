@@ -1,0 +1,56 @@
+
+.cal{
+   text-align: center;
+}
+.bb{
+display: flex;
+flex-direction: row;
+justify-content: center;
+ margin: 2%;
+ 
+ 
+}
+.cc{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+ margin: 2%;
+ 
+}
+.cal1{
+    margin: 2%;
+    
+}
+.cal2{
+    margin: 2%;
+   
+}
+
+.cal3{
+    margin: 2%;
+    
+
+}
+.cal4{
+    margin: 2%;
+  
+
+
+   
+}
+
+body{
+    background-color: blueviolet;
+    background-size: cover;
+}
+h1{
+    color: chartreuse;
+}
+img{
+   
+    border-width: 200%;
+}
+button{
+    font-size: xx-large;
+    background-color: aquamarine;
+}
