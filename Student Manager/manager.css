@@ -1,0 +1,34 @@
+body{
+    background-color: antiquewhite;
+}
+
+.d1{
+    text-align: center;
+    margin-top: 5cm;
+    border-radius: 50px;
+}
+    
+
+.h1{
+    text-align: center;
+padding: 10px;
+    margin: 10px;
+  
+}
+
+.h2:hover{
+    background-color: rgb(128, 0, 49);
+    color: rgb(211, 95, 0);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 100px;
+}
+table{
+    background-color: cyan;
+}
+
+
+
+
+
+
